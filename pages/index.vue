@@ -40,7 +40,7 @@
         </div>
         <!--ส่วนด้านขวา-->
         <div class="w-full sm:w-6/12 flex justify-center p-6 sm:p-0">
-          <img loading="lazy" src="~/assets/images/sunf2.jpg" alt="" class="w-auto rounded-lg ">
+          <img loading="lazy" src="~/assets/images/sunf2.png" alt="" class="w-auto rounded-lg ">
         </div>
       </div>
     </section>
